@@ -8,8 +8,7 @@ void toUpper(char str[]){
   printf("Upper Case of string is %s",str);
 }
 
-
-int main(){
- char greet[] = "Hello World!";
- greetings(greet);
+void toLower(char str[]){
+  printf("Lower Case of string is %s ",str);	
 }
+
