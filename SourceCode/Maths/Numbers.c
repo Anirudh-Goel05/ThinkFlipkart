@@ -1,5 +1,10 @@
 #include<stdio.h>
 
+
+int div(int x,y){
+  int res = y==0? x:x/y;
+  return res;
+}
 int sum(int x,int y){
    return x+y;
 }
