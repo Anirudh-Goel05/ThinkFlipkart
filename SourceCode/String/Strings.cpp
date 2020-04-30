@@ -1,8 +1,5 @@
 #include<stdio.h>
 
-void greetings(char hello[]){
-  printf("\n%s ",hello);
-}
 
 void toUpper(char str[]){
   printf("Upper Case of string is %s",str);
@@ -10,5 +7,9 @@ void toUpper(char str[]){
 
 void toLower(char str[]){
   printf("Lower Case of string is %s ",str);	
+}
+
+void toTitle(char str[]){
+  printf("Title Case of string is %s",str);
 }
 
