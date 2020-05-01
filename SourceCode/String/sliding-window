@@ -1,0 +1,12 @@
+int getLargestNonRepSubstr(string s){
+   // TODO Implement sliding window to get the longest sustring with no repeated characters
+}
+
+int getLargest2count(string s){
+}
+
+int getLargestkcount(string s){
+}
+
+int getSmallestContainingAllAlphabets(string s,string pattern){
+}
